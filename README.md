@@ -1,5 +1,6 @@
 # Event-Booking-System
 
-Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT
-->Developed a full-stack e-commerce application with user authentication, product catalog, shopping cart, and payment integration.
-->Implemented secure JWT-based login and RESTful APIs for seamless client-server communication.
+Tech Stack: React.js, Node.js, Express.js, MongoDB, Stripe, JWT
+->Built an event booking platform allowing users to browse events, book tickets, and process payments via Stripe.
+->Included admin panel for managing events and secure authentication using JWT
+
